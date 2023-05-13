@@ -13,13 +13,13 @@ const Home = () => {
           <Carousel.Item>
             <img
               width="100%"
-              src="https://cdn.shopify.com/s/files/1/0535/5182/5079/files/swish_ethereal_desktop_1512x.jpg?v=1674584495"
+              src="https://cdn.shopify.com/s/files/1/0535/5182/5079/files/swish_ethereal_desktop_1512x.jpg?v=1674584495" alt="img"
             />
           </Carousel.Item>
           <Carousel.Item>
             <img
               width="100%"
-              src="https://cdn.shopify.com/s/files/1/0535/5182/5079/files/co-ord_banner_d_1512x.jpg?v=1675786364"
+              src="https://cdn.shopify.com/s/files/1/0535/5182/5079/files/co-ord_banner_d_1512x.jpg?v=1675786364" alt="img"
             />
           </Carousel.Item>
         </Carousel>

@@ -1,12 +1,12 @@
-import React, { useState } from "react";
+import React from "react";
 import "./Dashboard.css";
 import HailIcon from "@mui/icons-material/Hail";
 import AdminHeader from "./AdminHeader";
 import DashboardHeader from "./DashboardHeader";
 
 const Dashboard = () => {
-  const [showdiv, setShowdiv] = useState(1);
-  const [show, setshow] = useState(false);
+  // const [showdiv, setShowdiv] = useState(1);
+  // const [show, setshow] = useState(false);
   return (
     <>
       <div className="Dashboard">

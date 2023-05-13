@@ -1,7 +1,7 @@
 import React from 'react'
 import AdminHeader from './AdminHeader'
 import "./AddProduct.css"
-import Dashboard from './Dashboard'
+// import Dashboard from './Dashboard'
 import DashboardHeader from './DashboardHeader'
 
 const AddProduct = () => {
