@@ -1,0 +1,29 @@
+.Header{
+    width: 100%;
+    height: 125px;
+    background-color: #561d1f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 150px;
+
+}
+.Header_icons{
+    /* border: 2px solid red; */
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Header_icons_style{
+    color: #ffdaa9;
+}
+.Header_menu{
+    width: 100%;
+    height: 55px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #561d1f;
+    /* border-bottom: 1px solid #561d1f; */
+}

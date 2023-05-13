@@ -1,0 +1,22 @@
+.ProductPage{
+    width: 100%;
+    border: 2px solid orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ProductPage_image_div{
+    width: 60%;
+    min-height: 1200px;
+    border: 2px solid purple;
+    margin: 50px 0px 50px 50px;
+}
+.ProductPage_image{
+    width: 100%;
+}
+.ProductPage_discription{
+    width: 40%;
+    border: 2px solid blue;
+    min-height: 1200px;
+    margin: 50px 50px 50px 25px;
+}

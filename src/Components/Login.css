@@ -1,0 +1,39 @@
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Login > h1 {
+  color: #561d1f;
+  margin-top: 40px;
+}
+.Login > span {
+  margin: 20px;
+}
+.Login > button {
+  margin: 20px;
+  width: 600px;
+  height: 40px;
+  background-color: white;
+  /* outline: none; */
+  border: 1px solid #561d1f;
+  border-radius: 2px;
+  font-size: 15px;
+  color: #561d1f;
+
+}
+.Login_label_input {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.Login_label_input > input {
+  width: 600px;
+  height: 40px;
+  margin: 10px 0;
+}
+.Login_label_input > label {
+  margin-top: 15px;
+}

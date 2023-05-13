@@ -1,0 +1,26 @@
+.Home_catalogue{
+    width: 100%;
+    min-height: 600px;
+    /* border: 2px solid fuchsia; */
+    text-align: center;
+    margin:30px 0px
+}
+.Home_catalouge_map{
+    width: 100%;
+    /* border: 2px solid blue; */
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px 40px;
+}
+.Home_catalouge_last_div{
+    /* border: 2px solid green; */
+    width: 300px;
+    margin: 7px ;
+}
+.Home_catalouge_image{
+    width: 280px;
+    border-radius: 10px;
+}
